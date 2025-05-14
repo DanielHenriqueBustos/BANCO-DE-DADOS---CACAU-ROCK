@@ -24,6 +24,14 @@ insert into `cacau_rock`.`tbl_finalizacao_de_compra`
 (`nome`,`email`,`telefone`,`cpf`,`endereco`,`complemento`,`cep`)
 values ('harley','harley@1234','43999374694','40087234820','ruacuritiba138','casafundo','80124871');
 
+insert into `cacau_rock`.`tbl_produto`
+(`imagem`,`descricao_imagem`,`nome`,`descricao`,`peso`,`valor`)
+values ('choco.jpg','ovo leite ninho e nutella','brigadeiro','brigadeiro de chocolate de leite','15g','5'),
+('choco 1.jpg','ovo neite ninho e nutella','ovo de chocolate meio amargo','casca de chocolate meio amargo','400g','105'),
+('choco 2.jpg','ovo leite ninho e nutella','Alfajores de chocolate','chocolate ao leite belga','400g','105'),
+('choco 6.jpg','Ovo Leite Ninho e Nutella','Mousse de Chocolate Branco','leite belga recheada com camadas','25g','25'),
+('choco 13.png','Ovo Leite Ninho e Nutella','Trufas sortidas','brigadeiro de Leite Ninho e Nutella','400g','160'),
+('choco 7.jpg','Ovo Leite Ninho e Nutella','Trufa branca de brownie','Casca de chocolate ao leite belga','400g','160')
 
 
 
